@@ -1,0 +1,18 @@
+body{
+    background-color: #F7CACA
+}
+header{
+    background-color: #C3B1E1;
+    display: flex;
+    padding-left: 15;
+    padding-right: 100;
+    border-radius: 20px;
+    margin: auto;
+}
+.search{
+    background-color: #F7CACA;
+    border-color: #ffffff;
+    border-radius: 15px;
+    margin: auto;
+}
+
